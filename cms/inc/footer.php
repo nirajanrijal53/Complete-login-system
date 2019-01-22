@@ -13,6 +13,9 @@ require $_SERVER['DOCUMENT_ROOT'].'config/init.php';
 
     <!-- Custom Theme Scripts -->
     <script src="assets/js/custom.min.js"></script> 
+
+    <!-- Main.js -->
+    <script src="assets/js/main.js"></script>
 <?php       
     }
 

@@ -1,3 +1,5 @@
+
+
 <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
@@ -37,14 +39,15 @@
                   <li><a><i class="fa fa-shopping-basket"></i> Product <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="product-add">Add product</a></li>
-                      <li><a href="product">List product</a></li>
+                      <li><a href="productlist">List product</a></li>
                     </ul>
-                  
-                  <li><a href="users"><i class="fa fa-users"></i> Users </a></li>
-
-                  <li><a href="order"><i class="fa fa-shopping-cart"></i> Orders </a></li>
-
+                    
                   <li><a href="advertisement"><i class="fa fa-dollar"></i> Advertisement </a></li>
+                  
+                  <li><a href="#"><i class="fa fa-users"></i> Users </a></li>
+
+                  <li><a href="#"><i class="fa fa-shopping-cart"></i> Orders </a></li>
+
 
                   </li>
                 </ul>
